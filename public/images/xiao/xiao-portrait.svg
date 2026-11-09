@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="800" height="1200">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#123a36"/><stop offset="1" stop-color="#101719"/></linearGradient></defs>
+<defs><linearGradient id="peak1" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#16423d"/><stop offset="1" stop-color="#0e2422"/></linearGradient></defs>
+<defs><linearGradient id="peak2" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0f2f2c"/><stop offset="1" stop-color="#0a1d1b"/></linearGradient></defs>
+<defs><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="rgba(70,199,178,0.5)"/><stop offset="1" stop-color="rgba(70,199,178,0)"/></linearGradient></defs><rect width="800" height="1200" fill="url(#sky)"/>
+  <circle cx="620" cy="210" r="150" fill="url(#glow)"/>
+  <polygon points="620.0,184.0 625.8,202.0 644.7,202.0 629.4,213.1 635.3,231.0 620.0,219.9 604.7,231.0 610.6,213.1 595.3,202.0 614.2,202.0" fill="#e8cd92" opacity="1"/>
+  <polygon points="620.0,166.0 629.9,196.4 661.8,196.4 636.0,215.2 645.9,245.6 620.0,226.8 594.1,245.6 604.0,215.2 578.2,196.4 610.1,196.4" fill="none" opacity="0"/>
+  <circle cx="620" cy="210" r="58" fill="none" stroke="#c9a45c" stroke-dasharray="5 7" opacity="0.5"/>
+  <circle cx="620" cy="210" r="80" fill="none" stroke="#c9a45c" opacity="0.25"/>
+  <polygon points="180.0,140.0 182.2,146.9 189.5,146.9 183.6,151.2 185.9,158.1 180.0,153.8 174.1,158.1 176.4,151.2 170.5,146.9 177.8,146.9" fill="#46c7b2" opacity="0.8"/>
+  <polygon points="90.0,333.0 91.6,337.8 96.7,337.8 92.5,340.8 94.1,345.7 90.0,342.7 85.9,345.7 87.5,340.8 83.3,337.8 88.4,337.8" fill="#c9a45c" opacity="0.7"/>
+  <polygon points="700.0,472.0 701.8,477.5 707.6,477.5 702.9,480.9 704.7,486.5 700.0,483.1 695.3,486.5 697.1,480.9 692.4,477.5 698.2,477.5" fill="#46c7b2" opacity="0.6"/>
+  <g opacity="0.9">
+    <path d="M0 980 L140 760 L260 930 L410 700 L560 900 L700 740 L800 880 L800 1200 L0 1200 Z" fill="url(#peak1)" opacity="0.85"/>
+    <path d="M0 1080 L120 900 L300 1060 L470 840 L640 1040 L800 880 L800 1200 L0 1200 Z" fill="url(#peak2)"/>
+  </g>
+  <g>
+    <polygon points="400,520 800,900 800,1200 0,1200 0,900" fill="#0b1917" opacity="0.55"/>
+    <path d="M400 540 Q340 545 332 610 L318 800 L296 1150 L360 1150 L376 940 L424 940 L440 1150 L504 1150 L482 800 L468 610 Q460 545 400 540 Z" fill="#0e201d"/>
+    <path d="M400 470 Q352 474 346 530 L454 530 Q448 474 400 470 Z" fill="#0e201d"/>
+    <circle cx="400" cy="500" r="34" fill="#0e201d"/>
+    <path d="M372 470 L364 436 L382 462 Z M428 470 L436 436 L418 462 Z" fill="#0e201d"/>
+    <path d="M352 574 Q400 604 448 574 L448 640 Q400 668 352 640 Z" fill="#0e201d" opacity="0.85"/>
+    <circle cx="400" cy="560" r="6" fill="#46c7b2"/>
+    <circle cx="400" cy="700" r="5" fill="#c9a45c" opacity="0.9"/>
+    <path d="M400 640 L400 800" stroke="#0e201d" stroke-width="0"/>
+    <path d="M330 520 Q310 700 300 900 L332 900 Q336 690 352 560 Z" fill="#123833" opacity="0.9"/>
+    <path d="M470 520 Q490 700 500 900 L468 900 Q464 690 448 560 Z" fill="#123833" opacity="0.9"/>
+    <path d="M310 880 Q400 830 490 880 L470 1140 Q400 1180 330 1140 Z" fill="#0c221f"/>
+    <path d="M330 1140 Q360 1104 400 1150 Q440 1104 470 1140" fill="none" stroke="#101719" stroke-width="14" opacity="0.9"/>
+  </g>
+  <ellipse cx="400" cy="1150" rx="330" ry="70" fill="rgba(70,199,178,0.10)"/>
+  <ellipse cx="400" cy="800" rx="280" ry="40" fill="rgba(241,245,242,0.05)"/>
+  <circle cx="400" cy="560" r="230" fill="none" stroke="#c9a45c" stroke-opacity="0.28" stroke-dasharray="2 10"/>
+  <path d="M120 120 L168 120 L144 144 Z" fill="none" stroke="#c9a45c" stroke-opacity="0.5"/>
+  <path d="M680 1080 L632 1080 L656 1056 Z" fill="none" stroke="#c9a45c" stroke-opacity="0.5"/>
+  <text x="400" y="1105" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#7fe0d0" letter-spacing="2">XIAO — ARTWORK PLACEHOLDER</text>
+  <text x="400" y="1140" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="17" fill="#a6b3b0" letter-spacing="2">replace: public/images/xiao/xiao-portrait.svg</text></svg>

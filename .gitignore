@@ -1,0 +1,1 @@
+# Dependencies\nnode_modules/\n\n# Build output\ndist/\ndist-ssr/\n\n# Logs\n*.log\nnpm-debug.log*\ndev-server.log\nnpm-install.log\nvite-dev.log\n\n# Debug screenshots/artifacts\nscreenshot-*.png\nscreenshots/\n\n# OS / editor\n.DS_Store\nThumbs.db\n*.swp\n.idea/\n.vscode/\n\n# Env\n.env\n.env.*\n!.env.example\n

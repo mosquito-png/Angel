@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 534" width="800" height="534">
+<defs><linearGradient id="vt2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#20504a"/><stop offset="1" stop-color="#0c1e1c"/></linearGradient></defs>
+<defs><linearGradient id="vts2" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#e8cd92"/><stop offset="1" stop-color="#9c7a3f"/></linearGradient></defs><rect width="800" height="534" fill="#26200f"/>
+    <rect width="800" height="534" fill="url(#vts2)" opacity="0.55"/>
+    <rect x="26" y="26" width="748" height="482" fill="url(#vt2)"/>
+    <path d="M0 120 Q200 30 400 120 T800 110" stroke="#7fe0d0" stroke-width="9" fill="none" opacity="0.4"/><circle cx="180" cy="220" r="60" fill="rgba(70,199,178,0.25)"/><path d="M0 380 L240 270 L440 380 L620 260 L800 350 L800 534 L0 534 Z" fill="#0a1c1a"/><polygon points="620.0,128.0 622.7,136.3 631.4,136.3 624.4,141.4 627.1,149.7 620.0,144.6 612.9,149.7 615.6,141.4 608.6,136.3 617.3,136.3" fill="#46c7b2" opacity="0.6"/><polygon points="100.0,232.0 101.8,237.5 107.6,237.5 102.9,240.9 104.7,246.5 100.0,243.1 95.3,246.5 97.1,240.9 92.4,237.5 98.2,237.5" fill="#c9a45c" opacity="0.7"/>
+    <rect x="26" y="26" width="748" height="482" fill="none" stroke="#c9a45c" stroke-width="3"/>
+    <rect x="40" y="40" width="720" height="454" fill="none" stroke="rgba(232,205,146,0.5)" stroke-width="1"/>
+    <circle cx="40" cy="40" r="9" fill="url(#vts2)"/><circle cx="760" cy="40" r="9" fill="url(#vts2)"/>
+    <circle cx="40" cy="494" r="9" fill="url(#vts2)"/><circle cx="760" cy="494" r="9" fill="url(#vts2)"/>
+    <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#a6b3b0" letter-spacing="2">vintage frame placeholder · images/scrapbook/vintage-2.svg</text></svg>
