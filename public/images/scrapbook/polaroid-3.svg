@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+<defs><linearGradient id="pb3" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#16423d"/><stop offset="1" stop-color="#0e2321"/></linearGradient></defs><rect width="600" height="750" fill="#f7f1e3"/>
+    <rect x="40" y="40" width="520" height="600" fill="url(#pb3)"/>
+    <path d="M60 240 Q220 160 380 240 T600 230" stroke="#7fe0d0" stroke-width="10" fill="none" opacity="0.55" stroke-linecap="round"/><path d="M100 300 Q240 230 420 300 T600 290" stroke="#46c7b2" stroke-width="8" fill="none" opacity="0.45" stroke-linecap="round"/><path d="M0 440 L180 350 L340 440 L500 340 L600 400 L600 600 L0 600 Z" fill="#0a1c1a"/><polygon points="520.0,159.0 522.5,166.6 530.5,166.6 524.0,171.3 526.5,178.9 520.0,174.2 513.5,178.9 516.0,171.3 509.5,166.6 517.5,166.6" fill="#46c7b2" opacity="0.8"/>
+    <rect x="40" y="40" width="520" height="600" fill="none" stroke="rgba(0,0,0,0.18)"/>
+    <text x="300" y="692" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#77837f" letter-spacing="2">polaroid placeholder · images/scrapbook/polaroid-3.svg</text></svg>
